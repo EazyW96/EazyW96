@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elliotte Wideman 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Audio+Engineer+%7C+SWE+Student+at+KSU;Loves+Programming+%2B+Sound+Design;Learning+Full+Stack+Development+%26+DSP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Audio+Engineer+%7C+SWE+Student+at+KSU;Loves+Programming+%2B+Sound+Design;Learning+Full+Stack+Development+%26+DSP" alt="Typing SVG" />
 </p>
 
 ---

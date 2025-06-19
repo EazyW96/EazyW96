@@ -35,11 +35,6 @@ Led the requirements elicitation and validation for a smart device integration p
 
 ---
 
-### 🌐 See More Projects + Resume  
-📂 Visit my full portfolio here → [https://eazyw96.github.io/elliotte-resume](https://eazyw96.github.io/elliotte-resume)
-
----
-
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elliottewideman007-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/elliottewideman007/)  
